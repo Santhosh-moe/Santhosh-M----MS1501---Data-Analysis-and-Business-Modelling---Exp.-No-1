@@ -72,16 +72,14 @@ analysis for data-cleaning and preprocessing purposes.
   `df.columns`              Lists column names in the DataFrame.
 
 ## Program & Output
-## Input 
+## Input 1
 ```
 # Import essential Python libraries
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-```
-## Input 1
-```
+
 # Load the dataset in CSV from the system / laptop
 df = pd.read_csv('heartdisease.csv')
 
